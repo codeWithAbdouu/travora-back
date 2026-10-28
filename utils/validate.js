@@ -1,4 +1,4 @@
-import AppError from './AppError.js';
+import AppError from './appError.js';
 
 const validate = (schema, data, next) => {
   const result = schema.safeParse(data);
