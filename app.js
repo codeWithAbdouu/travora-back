@@ -61,7 +61,7 @@ app.use(
     origin: [
       'http://localhost:5173',
       'http://localhost:5174',
-      'https://travora-blue.vercel.app',
+      'https://travoraa-kappa.vercel.app',
     ],
     credentials: true,
   }),
